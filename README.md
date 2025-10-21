@@ -3,6 +3,8 @@
 This repository showcases my **Robot Framework automation suites**, designed for **sanity**, **status validation**, and **UI–Database verification** within pre-production environments.  
 These tests form part of my ongoing work to ensure that the **Ripple** system’s advanced search and service dashboards remain accurate and stable across all workflow statuses.
 
+#Please note that Usernames and Passwords have been removed. Please only look at the code.
+
 ---
 
 ## 📂 Project Overview
